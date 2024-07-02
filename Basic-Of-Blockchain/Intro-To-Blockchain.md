@@ -5,7 +5,9 @@
 Blockchain is a data structure that represents a growing list of records, known as blocks, which are securely linked together using cryptography. It is the backbone technology behind digital cryptocurrencies like Bitcoin. Blockchain ensures that once information is added to a block, it cannot be altered or removed, making it an incorruptible digital ledger of transactions.
 
 
-![Blockchain Introduction](../Images/Blockchain.gif)
+<!-- ![Blockchain Introduction](../Images/Blockchain.gif) -->
+
+<img src="../Images/Blockchain.gif" alt="Blockchain Introduction" width="600">
 
 ### Key Features of Blockchain:
 
