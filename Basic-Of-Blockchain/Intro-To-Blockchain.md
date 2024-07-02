@@ -103,3 +103,12 @@ Blockchain is a data structure that represents a growing list of records, known 
 ## Conclusion
 
 Blockchain technology is a revolutionary concept that offers secure, transparent, and decentralized solutions for various applications. Its ability to provide a tamper-proof digital ledger has made it the backbone of cryptocurrencies and a promising technology for many other industries.
+
+
+## References
+
+- Google
+- Medium
+- Wikipedia
+- ChatGPT
+- Notes from YouTube
