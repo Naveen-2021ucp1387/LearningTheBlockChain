@@ -199,3 +199,10 @@ D. Higher risk of corruption.
 ## Conclusion
 
 Both centralization and decentralization have their own set of advantages and disadvantages. The choice between the two depends on the specific requirements and goals of an organization or system. Centralization offers more control and efficiency, while decentralization provides greater security, transparency, and resilience.
+
+## References
+
+- Google
+- GFG
+- ChatGPT
+- Notes from YouTube
