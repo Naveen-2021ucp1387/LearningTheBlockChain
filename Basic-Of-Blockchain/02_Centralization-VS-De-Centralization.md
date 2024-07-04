@@ -21,6 +21,9 @@ In the context of organizational structures and blockchain technology, centraliz
 
 Centralization refers to a system where control and decision-making authority are concentrated in the hands of a single entity or a small group of entities. This can lead to vulnerabilities, as the system relies on the trustworthiness and security of these few controllers.
 
+<img src="../Images/c1.jpg" 
+  width="500"/>
+
 **Characteristics of Centralization:**
 
 - Control and authority are concentrated at the top.
@@ -33,6 +36,9 @@ Centralization refers to a system where control and decision-making authority ar
 ## Decentralization
 
 Decentralization refers to the transfer of control and decision-making from a centralized entity to a distributed network. Decentralized networks strive to reduce the level of trust that participants must place in one another and deter their ability to exert authority or control over one another in ways that degrade the functionality of the network.
+
+<img src="../Images/d1.jpg" 
+  width="500"/>
 
 **Characteristics of Decentralization:**
 
