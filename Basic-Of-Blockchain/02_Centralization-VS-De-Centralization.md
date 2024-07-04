@@ -48,10 +48,12 @@ Decentralization refers to the transfer of control and decision-making from a ce
 - Reduces points of weakness.
 - Optimizes resource distribution.
 
-<p align="center">
-  <img src="../Images/centralizationAndDecentralizationjpeg.png" 
+<!-- <p align="center"> -->
+
+<img src="../Images/centralizationAndDecentralizationjpeg.png" 
   width="500"/>
-</p>
+
+<!-- </p> -->
 
 ## Centralization vs Decentralization
 
