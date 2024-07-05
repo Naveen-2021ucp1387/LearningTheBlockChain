@@ -5,7 +5,7 @@
 Distributed Ledger Technology (DLT) is a digital system for recording the transaction of assets in which the transactions and their details are recorded in multiple places at the same time. Unlike traditional databases, distributed ledgers have no central data store or administration functionality. DLT refers specifically to the technological infrastructure and protocols that enable the simultaneous access, validation, and updating of records that characterize distributed ledgers.
 
 <p align="center">
-  <img src="../Images/centralized-vs-distributed-ledger-technology.png" alt="centralized vs distributed ledger">
+  <img src="../Images/centralized-vs-distributed-ledger-technology.png" alt="centralized vs distributed ledger" width="500">
 </p>
 
 ## How DLT Works
@@ -75,7 +75,7 @@ DLT simplifies property transactions, reduces paperwork, and enhances security. 
 - **User Education**: Requires technical knowledge for widespread adoption.
 
 <p align="center">
-  <img src="../Images/ledger.png" alt="ledger">
+  <img src="../Images/TypesofDLT.jpg" alt="ledger" width="600">
 </p>
 
 ## Pros and Cons
@@ -96,10 +96,10 @@ DLT simplifies property transactions, reduces paperwork, and enhances security. 
 - Regulatory and legal uncertainties.
 - Complexity and need for technical expertise.
 
-
 # Multiple Choice Questions: Ledgers in Blockchain
 
 ## Question 1
+
 **What is a primary characteristic of a distributed ledger?**
 
 A. It is maintained by a single central authority.  
@@ -107,9 +107,8 @@ B. It allows data to be modified after it is recorded.
 C. It operates on a peer-to-peer (P2P) network.  
 D. It does not require validation of transactions.
 
-
-
 ## Question 2
+
 **Which of the following is NOT a feature of distributed ledger technology (DLT)?**
 
 A. Decentralization  
@@ -117,8 +116,8 @@ B. Append-only data structure
 C. Centralized control  
 D. Fault tolerance
 
-
 ## Question 3
+
 **In the context of blockchain, what does immutability refer to?**
 
 A. The ability to easily alter stored data  
@@ -126,8 +125,8 @@ B. The permanent record of transactions that cannot be changed
 C. The ability to delete records selectively  
 D. The speed of transaction processing
 
-
 ## Question 4
+
 **Which industry was an early leader in adopting distributed ledger technology (DLT)?**
 
 A. Agriculture  
@@ -135,8 +134,8 @@ B. Healthcare
 C. Hospitality  
 D. Fashion
 
-
 ## Question 5
+
 **What consensus mechanism is primarily used in Bitcoin blockchain?**
 
 A. Proof of Authority (PoA)  
@@ -144,21 +143,19 @@ B. Proof of Work (PoW)
 C. Proof of Stake (PoS)  
 D. Directed Acyclic Graph (DAG)
 
-
 ---
 
 **Answers:**
+
 1. C - It operates on a peer-to-peer (P2P) network.
 2. C - Centralized control
 3. B - The permanent record of transactions that cannot be changed
 4. B - Healthcare
 5. B - Proof of Work (PoW)
 
-
 ## Conclusion
 
 Distributed Ledger Technology (DLT) has the potential to revolutionize various industries by providing a decentralized, transparent, and secure method for recording transactions. While there are challenges to overcome, the benefits of DLT make it a promising technology for the future.
-
 
 ## References
 
