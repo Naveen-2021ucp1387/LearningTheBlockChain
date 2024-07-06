@@ -14,7 +14,7 @@ Public and private keys always come in pairs. While a traditional wallet stores 
 <!-- ![crypto Wallet](../Images/cryptoWallets.jpeg) -->
 
 <p>
-<img src="../Images/cryptoWallets.jpeg" align ="center" width="500">
+<img src="../Images/cryptoWallets.jpeg" align="center" width="400">
 </p>
 
 ## Features of Blockchain Wallet
