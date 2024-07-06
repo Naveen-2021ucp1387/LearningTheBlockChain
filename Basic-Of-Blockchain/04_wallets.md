@@ -5,17 +5,16 @@
 A blockchain wallet is a software that enables sending and receiving cryptocurrencies such as Bitcoin, Ethereum, etc. It stores the record of transactions and also public and private keys, which are used to perform transactions.
 
 ### Key Concepts
-
 - **Public Key**: Similar to an account number. It can be shared with anyone to receive cryptocurrencies.
 - **Private Key**: Similar to an account password. It is secret and used to send cryptocurrencies.
 
 Public and private keys always come in pairs. While a traditional wallet stores currency, a blockchain wallet stores the record of transactions performed by the users and the public and private keys.
 
-<!-- ![crypto Wallet](../Images/cryptoWallets.jpeg) -->
 
-<p>
-<img src="../Images/cryptoWallets.jpeg" align="center" width="400">
+<p align="center">
+<img src="../Images/cryptoWallets.jpeg" width="400">
 </p>
+
 
 ## Features of Blockchain Wallet
 
@@ -45,24 +44,40 @@ When a blockchain wallet is created, it generates a public key and a private key
 
 Connected to the Internet, allowing quick access but vulnerable to hacking. Types include:
 
-- **Online (Cloud) Wallets**: Convenient but least secure. Examples: Bittrex, Coins.ph.
-- **Desktop Wallets**: More secure than online wallets but vulnerable if the computer is compromised. Examples: Exodus, Bitcoin Core.
-- **Mobile Wallets**: Easier to use than desktop wallets, but risk losing access if the phone is damaged. Examples: Jaxx, Mycelium.
+- **Online (Cloud) Wallets**: Convenient but least secure. Examples: 
+  - **Bittrex**
+  - **Coins.ph**
+  - **GreenAddress**
+- **Desktop Wallets**: More secure than online wallets but vulnerable if the computer is compromised. Examples:
+  - **Exodus**
+  - **Bitcoin Core**
+  - **Armory**
+- **Mobile Wallets**: Easier to use than desktop wallets, but risk losing access if the phone is damaged. Examples:
+  - **Jaxx**
+  - **Mycelium**
+  - **BreadWallet**
 
 ### Cold Storage
 
 Not connected to the Internet, offering higher security at the cost of convenience. Types include:
 
-- **Hardware Wallets**: Store keys offline in a physical device. Examples: Ledger, Trezor.
-- **Paper Wallets**: Store keys on paper, highly secure but vulnerable to physical damage. Examples: BitAddress.org.
+- **Hardware Wallets**: Store keys offline in a physical device. Examples:
+  - **Ledger**
+  - **Trezor**
+  - **KeepKey**
+- **Paper Wallets**: Store keys on paper, highly secure but vulnerable to physical damage. Examples:
+  - **BitAddress.org**
+  - **Bitcoin Armory**
 
 ### Multi-Signature Wallet
 
-Requires multiple private keys to execute transactions, enhancing security and decentralization. Example: BitGo.
+Requires multiple private keys to execute transactions, enhancing security and decentralization. Example:
+  - **BitGo**
 
 ### Multi-Currency Wallet
 
-Supports multiple cryptocurrencies and allows easy currency conversions. Example: Exodus.
+Supports multiple cryptocurrencies and allows easy currency conversions. Example:
+  - **Exodus**
 
 ## Criteria to Choose Blockchain Wallet
 
@@ -96,11 +111,51 @@ Supports multiple cryptocurrencies and allows easy currency conversions. Example
 - **Bitcoin Paper Wallet**: Tamper-resistant, minimizes hacking threats.
 - **Jaxx**: Multi-currency wallet with currency exchange feature.
 
+
+
+## Multiple Choice Questions
+
+1. What is a public key similar to?
+   - A. Password
+   - B. Account Number
+   - C. Email Address
+   - D. Security Code
+
+2. Which type of storage is connected to the Internet?
+   - A. Hot Storage
+   - B. Cold Storage
+   - C. Hardware Wallet
+   - D. Paper Wallet
+
+3. Which wallet is considered the least secure?
+   - A. Desktop Wallet
+   - B. Mobile Wallet
+   - C. Online (Cloud) Wallet
+   - D. Hardware Wallet
+
+4. Which of the following is a multi-signature wallet?
+   - A. Ledger
+   - B. Trezor
+   - C. BitGo
+   - D. Exodus
+
+5. Which wallet provides the highest level of security?
+   - A. Mobile Wallet
+   - B. Desktop Wallet
+   - C. Paper Wallet
+   - D. Online Wallet
+
+## Answers
+
+1. B. Account Number
+2. A. Hot Storage
+3. C. Online (Cloud) Wallet
+4. C. BitGo
+5. C. Paper Wallet
+
 ## Conclusion
 
 Blockchain wallets provide secure, easy-to-use, and cost-effective ways to manage cryptocurrencies. They offer various types of storage options to cater to different needs, balancing security and convenience. Understanding the features and challenges of each type helps users choose the best wallet for their requirements.
-
----
 
 ## References
 
