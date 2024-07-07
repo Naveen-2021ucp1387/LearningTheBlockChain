@@ -98,3 +98,10 @@ A consensus algorithm is a procedure through which all the peers of the Blockcha
 ## Conclusion
 
 Consensus algorithms are essential for the proper functioning of blockchain networks. They ensure that all transactions are verified and agreed upon by all nodes in a decentralized manner. Selecting the right consensus protocol is crucial for the success and security of a blockchain project.
+
+## References
+
+- Google
+- Medium
+- ChatGPT
+- Notes from YouTube
