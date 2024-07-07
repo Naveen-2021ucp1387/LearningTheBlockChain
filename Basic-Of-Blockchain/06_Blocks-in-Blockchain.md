@@ -95,7 +95,7 @@ One of the most significant impacts of blockchains on individuals is access to f
 Businesses in all sectors are exploring ways to use blockchains. Insurance companies can use it to facilitate insurance claims and fraud investigations. Intellectual property rights can be protected, and international businesses can make faster and cheaper cross-border payments using blockchain.
 
 <p align="center">
-<img src="../Images/blocks.jpg" width="400">
+<img src="../Images/blocks.jpg" width="600">
 </p>
 
 ## Questions
@@ -187,3 +187,11 @@ Businesses in all sectors are exploring ways to use blockchains. Insurance compa
 ### Conclusion
 
 Blocks are the basic constructs of blockchain. Each block contains a set of transactions, metadata, and mining information. Blockchain technology is continuously evolving, impacting both individuals and businesses by providing secure, transparent, and efficient ways to handle data and transactions.
+
+
+
+## References
+
+- Code Eater
+- Google
+- Notes from youtube
