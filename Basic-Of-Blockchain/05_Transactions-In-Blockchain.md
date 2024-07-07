@@ -19,8 +19,6 @@ Sourav and Suraj are two Bitcoin users. Sourav wants to send 1 bitcoin to Suraj.
 
 The below diagram is a pictorial representation of the various stages in a transaction life cycle as discussed above.
 
-
-
 ## Coinbase Transaction
 
 A coinbase transaction is the first transaction in a block. It is a unique type of bitcoin transaction that can be created by a miner. The miners use it to collect the block reward for their work and any other transaction fees collected by the miner are also sent in this transaction.
@@ -44,7 +42,6 @@ A transaction captures details of an activity that has taken place on a blockcha
 3. Transacting with a smart contract.
 
 The specifics of blockchain accounts and smart contracts will be discussed in subsequent articles, but it’s important to understand that there are only three types of transactions that can take place.
-
 
 ### Transaction Attributes
 
@@ -76,9 +73,8 @@ Transactions, like blocks, have a hash associated with them. As with block hashe
 
 The data and events fields are crucial sources of information, as it is from this that information such as token ownership is defined.
 
-
 <p align="center">
-<img src="../Images/transaction1.png" width="400">
+<img src="../Images/transaction1.png" width="600">
 </p>
 
 ## Summary
@@ -87,8 +83,8 @@ A transaction represents an action taking place on a blockchain network. There a
 
 There are a number of fields that are contained within a transaction. Two of the key fields for interpreting activities that have taken place on the blockchain are the data and events fields.
 
-
 ## References
+
 - Code Eater
 - Google
 - Notes from youtube
