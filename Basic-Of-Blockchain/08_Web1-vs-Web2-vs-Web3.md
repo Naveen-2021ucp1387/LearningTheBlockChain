@@ -86,5 +86,5 @@ Web3, or Web 3.0, represents the next phase of the internet, focusing on decentr
 Understanding the distinctions between Web1, Web2, and Web3 helps us appreciate the rapid evolution of the internet and its increasing impact on our daily lives. Each phase has brought significant advancements, leading to more interactive, participatory, and decentralized web experiences.
 
 <p align="center">
-<img src="../Images/web123.png" width=700">
+<img src="../Images/web123.png" width=800">
 </p>
