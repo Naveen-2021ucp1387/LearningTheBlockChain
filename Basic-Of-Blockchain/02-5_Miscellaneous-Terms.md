@@ -1,5 +1,6 @@
 ## Miscellaneous Terms Related to Blockchain
 
+#### NOTE - I have mention some term which will you find in upcoming files.
 ### Blockchain
 
 - **Definition**: A decentralized, distributed ledger that records transactions across multiple computers in a way that is secure, transparent, and resistant to modification.
