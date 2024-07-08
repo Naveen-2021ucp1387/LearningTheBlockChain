@@ -1,6 +1,7 @@
 ## Miscellaneous Terms Related to Blockchain
 
-#### NOTE - I have mention some term which will you find in upcoming files.
+#### NOTE - I have mention some term which you will find in upcoming files.
+
 ### Blockchain
 
 - **Definition**: A decentralized, distributed ledger that records transactions across multiple computers in a way that is secure, transparent, and resistant to modification.
@@ -61,7 +62,6 @@
 - **Definition**: A divergence in the blockchain's protocol resulting in two potential paths forward. Can be categorized as hard forks (irreconcilable differences) or soft forks (backward-compatible changes).
 - **Explanation**: Forks occur when there is a disagreement among network participants about the rules governing the blockchain. Hard forks create a new chain, while soft forks maintain compatibility with the existing chain.
 
-
 ## Hard Fork vs Soft Fork
 
 ### Hard Fork
@@ -114,7 +114,6 @@
 - **Definition**: Direct interaction between participants in a decentralized network without a central authority or intermediary.
 - **Explanation**: P2P networks enable direct communication and transactions between users, eliminating the need for intermediaries. Blockchain networks operate on a P2P basis, ensuring decentralization and resilience.
 
-
 ### Nonce
 
 - **Definition**: A nonce is a number added to a hashed block that, when rehashed, meets a difficulty level. It is used in Proof of Work (PoW) systems to vary the output of a cryptographic hash function.
@@ -130,11 +129,6 @@
 - **Definition**: UTXOs are leftover cryptocurrency from transactions that can be spent as inputs in future transactions.
 - **Example**: If Alice sends Bob 2 BTC but only has a 5 BTC input, the remaining 3 BTC becomes a UTXO tied to her wallet address until she spends it.
 
-
-
-
-
 ---
 
 Understanding these terms is essential for comprehending the mechanics and complexities of blockchain technology and cryptocurrencies.
-
