@@ -27,6 +27,11 @@ The validator is chosen based on a combination of the lowest hash value and the 
 4. If the block is approved by the network, the validator receives their stake back along with the transaction fees as a reward.
 5. If the block is not approved, the validator loses their stake and the process restarts.
 
+
+<p align="center">
+<img src="../Images/POS.png" width=500">
+</p>
+
 ## Features of PoS
 
 ### Fixed Coins in Existence
