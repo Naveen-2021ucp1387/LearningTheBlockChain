@@ -30,6 +30,8 @@ You can access Remix IDE directly in your browser by visiting [Remix IDE](https:
 
 Remix IDE is generally used to compile and run Solidity smart contracts. Below are the steps for the compilation, execution, and debugging of the smart contract.
 
+#### NOTE : there might be some differences in images due to updated version
+
 ## Step 1: Open Remix IDE
 
 Open Remix IDE on any of your browsers. Select `New File` and click on `Solidity` to choose the environment.
@@ -58,14 +60,36 @@ contract SolidityTest {
 }
 ```
 
+<p align="center">
+<img src="../../Images/sol-2.png" width="1000">
+</p>
+
 ## Step 3: Deploy the Smart Contract
 
 To execute the code, click on the Deploy button under the Deploy and Run Transactions window.
+
+<p align="center">
+<img src="../../Images/sol-3.png" width="1000">
+</p>
 
 ## Step 4: Execute the Deployed Contract
 
 After deploying the code, click on the method calls under the drop-down of deployed contracts to run the program. For output, click on the drop-down on the console.
 
+<p align="center">
+<img src="../../Images/sol-4.png" width="1000">
+</p>
+
 ## Step 5: Debug the Smart Contract
 
 For debugging, click on the Debug button corresponding to the method call in the console. Here you can check each function call and variable assignments.
+
+<p align="center">
+<img src="../../Images/sol-5.png" width="1000">
+</p>
+
+
+## References
+ - GFG
+ - CodeEater
+ - Notes
