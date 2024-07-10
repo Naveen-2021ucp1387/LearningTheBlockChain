@@ -6,7 +6,7 @@
 A blockchain oracle is a service that sends real-world data to a blockchain. For example, it can provide temperature readings or political vote counts to a blockchain. Smart contracts use this data to perform tasks automatically, such as dispensing funds when certain conditions are met. Oracles enable the decentralized web3 ecosystem to access existing data sources and perform advanced computations.
 
 <p align="center">
-<img src="../Images/Oracle.png" width="600">
+<img src="../Images/Oracle.png" width="800">
 </p>
 
 ## Types of Oracle Database Editions
@@ -24,7 +24,7 @@ A blockchain oracle is a service that sends real-world data to a blockchain. For
 3. **Transaction Speed**: While blockchain transactions can be fast, the decentralized nature can slow down everyday transactions due to the need for verification by multiple nodes.
 
 <p align="center">
-<img src="../Images/Oracle-2.jpeg" width="600">
+<img src="../Images/Oracle-2.jpeg" width="800">
 </p>
 
 
