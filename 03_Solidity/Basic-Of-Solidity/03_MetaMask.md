@@ -66,9 +66,6 @@ here you will get Sepolia Eth Free of cost not to pay anything
 
 ### Step 3: MetaMask is ready for deployment. To know more about MetaMask visit the MetaMask official guide
 
-
-
-
 # Steps to deploy your contract with MetaMask
 
 ### Step 1: Open Remix IDE in your browser. After opening click on + and write the filename as follows:
@@ -82,7 +79,7 @@ here you will get Sepolia Eth Free of cost not to pay anything
 ```Solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
- 
+
 // Creating a contract
 contract SampleContract
 {
@@ -92,42 +89,51 @@ contract SampleContract
     }
 }
 ```
+
 <p align="center">
 <img src="../../Images/ms-2.png" width="1000">
 </p>
 
-
-###  Step 3: After compilation and move to deploy section just below the compilation and select Injected Provider – MetaMask in place of Remix VM as shown below –
-
+### Step 3: After compilation and move to deploy section just below the compilation and select Injected Provider – MetaMask in place of Remix VM as shown below –
 
 Select the Injected Provider – Metamask
+
 <p align="center">
 <img src="../../Images/ms-3.png" width="400">
 </p>
 
-###  Step 4: Now your contract is ready to be deployed. Click on deploy button and the MetaMask will ask for confirmation as follows –  
-
+### Step 4: Now your contract is ready to be deployed. Click on deploy button and the MetaMask will ask for confirmation as follows –
 
 Click the Confirm Button
+
 <p align="center">
 <img src="../../Images/ms-4.png" width="400">
 </p>
 
-###  Step 5: After confirmation, the deployed contract will look like –
-
+### Step 5: After confirmation, the deployed contract will look like –
 
 Deployed Contract
+
 <p align="center">
 <img src="../../Images/ms-5.png" width="400">
 </p>
 
 ### Step 6: Expand the deployed contract as below and get the output using the get_output() function:
+
 Output
+
 <p align="center">
 <img src="../../Images/ms-6.png" width="400">
 </p>
 
+### Step 7: Now, to verify whether your transaction (process) executed successfully, you can check your balance on MetaMask.
+
+also you can confirm transaction on
+https://sepolia.etherscan.io/ by copying the hash.
 
 
 
-###  Step 7: Now, to verify whether your transaction (process) executed successfully, you can check your balance on MetaMask.
+## Referecnes
+ - GFG
+ - MetaMask
+ - Notes
