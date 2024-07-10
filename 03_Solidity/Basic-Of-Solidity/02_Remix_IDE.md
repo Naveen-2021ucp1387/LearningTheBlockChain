@@ -35,7 +35,7 @@ Remix IDE is generally used to compile and run Solidity smart contracts. Below a
 Open Remix IDE on any of your browsers. Select `New File` and click on `Solidity` to choose the environment.
 
 <p align="center">
-<img src="../../Images/sol-1.png" width="800">
+<img src="../../Images/sol-1.png" width="1000">
 </p>
 
 ## Step 2: Write the Smart Contract
