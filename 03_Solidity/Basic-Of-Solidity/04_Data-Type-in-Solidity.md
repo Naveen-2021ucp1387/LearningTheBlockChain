@@ -258,7 +258,7 @@ struct Student {
 
 Mappings are reference types that store data in key-value pairs. They are similar to hash tables or dictionaries in other programming languages.
 
-```solidity
+```
 mapping(address => uint) public balances;
 ```
 
