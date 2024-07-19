@@ -246,7 +246,7 @@ string name = "LearningTheBlockChain";
 
 Structs allow users to create more complex data types that group together variables of different types. Structs are reference types and can contain both value and reference types.
 
-```solidity
+```
 struct Student {
     string name;
     uint8 age;
