@@ -238,7 +238,7 @@ uint[] dynamicArray;
 
 Strings are similar to arrays but are specifically designed to hold sequences of characters. Unlike fixed-size arrays, strings in Solidity are dynamic and can grow or shrink in size.
 
-```solidity
+```
 string name = "LearningTheBlockChain";
 ```
 
