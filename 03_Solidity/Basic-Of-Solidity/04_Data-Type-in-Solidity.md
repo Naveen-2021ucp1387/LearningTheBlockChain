@@ -226,7 +226,7 @@ Reference types are more complex data types that reference or point to a locatio
 
 An array is a collection of variables of the same type stored in contiguous memory locations. Arrays can be of fixed size or dynamic size.
 
-```solidity
+```
 // Fixed-size array
 uint[5] fixedArray;
 
