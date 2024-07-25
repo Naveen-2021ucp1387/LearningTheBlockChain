@@ -158,4 +158,5 @@ In this example:
 
 Mappings in Solidity are powerful tools for creating efficient and dynamic data structures. They allow you to store and retrieve key-value pairs efficiently, and when combined with structs or nested mappings, they can represent complex data models. However, because mappings do not support iteration directly, you may need to use auxiliary data structures like arrays for certain operations.
 
+
 Understanding mappings and their limitations is crucial for writing effective and efficient smart contracts in Solidity.
