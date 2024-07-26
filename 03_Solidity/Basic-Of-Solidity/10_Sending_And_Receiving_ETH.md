@@ -60,7 +60,7 @@ receive() external payable {
 
 The `fallback` function is called when the contract receives Ether with data or when no other function matches the call data.
 
-```solidity
+```
 // Example of fallback function
 fallback() external payable {
     // Custom logic for handling calls with data
