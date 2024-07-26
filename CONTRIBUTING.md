@@ -45,27 +45,6 @@ If you have an idea to improve the project, feel free to create a new issue on [
 
 By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Style Guides
-
-### Git Commit Messages
-
-- Use the present tense ("Add feature" not "Added feature")
-- Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
-- Limit the first line to 72 characters or less
-
-### Markdown
-
-- Use markdown linting tools to check your markdown files.
-- Ensure that your markdown files are correctly formatted and easy to read.
-
-### Code Style
-
-- Follow the coding style conventions that are in place for the language you are writing in. If in doubt, refer to the existing code in the repository.
-
-## License
-
-By contributing, you agree that your contributions will be licensed under the MIT License.
-
 ## Thank You!
 
 Thank you for taking the time to contribute to this project! Your help is highly appreciated.
