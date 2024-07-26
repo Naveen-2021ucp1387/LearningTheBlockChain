@@ -10,7 +10,7 @@ A constructor is defined using the `constructor` keyword. Unlike regular functio
 
 ### Example of a Simple Constructor
 
-```solidity
+```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
