@@ -114,7 +114,7 @@ Solidity strings are UTF-8 encoded. This means that non-ASCII characters are sup
 
 ### Example of UTF-8 Strings
 
-```solidity
+```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
