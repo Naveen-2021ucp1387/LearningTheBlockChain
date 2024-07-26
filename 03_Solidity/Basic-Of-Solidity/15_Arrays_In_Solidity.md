@@ -195,7 +195,7 @@ Arrays can be stored in two different locations: storage and memory.
 
 ### Example of Storage and Memory Arrays
 
-```solidity
+```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
