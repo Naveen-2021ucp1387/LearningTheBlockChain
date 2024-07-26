@@ -38,7 +38,7 @@ Events are emitted using the `emit` keyword, followed by the event name and the 
 
 ### Example of Emitting an Event
 
-```solidity
+```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
