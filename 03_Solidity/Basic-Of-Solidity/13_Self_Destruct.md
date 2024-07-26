@@ -13,7 +13,7 @@ When the `selfdestruct` function is called, the contract:
 
 ### Syntax
 
-```solidity
+```
 selfdestruct(address payable recipient);
 ```
 
