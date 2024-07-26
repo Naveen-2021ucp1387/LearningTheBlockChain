@@ -74,7 +74,7 @@ Custom errors provide a more gas-efficient way to handle errors compared to stri
 
 #### Example of Custom Errors
 
-```solidity
+```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
