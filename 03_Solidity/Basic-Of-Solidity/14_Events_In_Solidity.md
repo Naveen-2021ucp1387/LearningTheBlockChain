@@ -11,7 +11,7 @@ Events are declared using the `event` keyword, followed by the event name and th
 
 ### Example of Declaring an Event
 
-```solidity
+```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
