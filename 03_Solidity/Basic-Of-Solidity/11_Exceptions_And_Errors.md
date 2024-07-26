@@ -1,4 +1,3 @@
-
 # Exceptions and Errors in Solidity
 
 ## Introduction
@@ -102,7 +101,7 @@ contract CustomErrorExample {
 
 Here is a comprehensive example that demonstrates different types of error handling in a single contract.
 
-```solidity
+```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
