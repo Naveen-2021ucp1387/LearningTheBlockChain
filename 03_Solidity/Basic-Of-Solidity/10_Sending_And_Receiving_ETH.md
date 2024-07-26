@@ -71,7 +71,7 @@ fallback() external payable {
 
 You can use both `receive` and `fallback` functions in a contract to handle different types of Ether transfers.
 
-```solidity
+```
 // Example of combining receive and fallback
 contract EtherReceiver {
     receive() external payable {
