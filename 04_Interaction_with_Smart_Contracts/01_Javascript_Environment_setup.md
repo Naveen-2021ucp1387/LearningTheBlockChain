@@ -1,4 +1,3 @@
-
 # JavaScript Environment Setup for Interaction with Solidity
 
 This guide provides step-by-step instructions to set up a JavaScript environment for interacting with Solidity smart contracts using Node.js, npm, Truffle, Ganache, and Web3.js.
