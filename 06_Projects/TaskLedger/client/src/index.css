@@ -1,0 +1,144 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+  list-style-type: none;
+}
+.todo_btn button {
+  font-size: 16px;
+  font-weight: 600;
+  color: black;
+  background-color: #eb5429;
+  width: 200px;
+  height: 52px;
+  position: relative;
+  overflow: hidden;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-radius: 4px;
+}
+
+.todo_btn button::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ff7f50;
+  transform: translate(-50%, -50%) scale(0);
+  opacity: 0;
+  transition: transform 0.5s, opacity 0.5s;
+  mix-blend-mode: screen;
+}
+
+.todo_btn button:hover::before {
+  transform: translate(-50%, -50%) scale(3);
+  opacity: 1;
+}
+
+.todo_btn button:hover {
+  background-color: #ff4d00;
+}
+
+/* modal */
+.modal {
+  color: black;
+  position: fixed;
+  z-index: 1000;
+  top: -70px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  animation: fadeIn 0.3s ease-out;
+  backdrop-filter: blur(5px);
+}
+.modal-content {
+  text-align: center;
+  background-color: #fff;
+  margin: 10% auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  max-width: 400px;
+  animation-name: modal-appear;
+  animation-duration: 0.3s;
+  border: 2px solid #eb5429;
+}
+.modal p {
+  width: 300px;
+  padding-top: 6px;
+}
+
+@keyframes modal-appear {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+  /* margin-left: -102px; */
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+}
+/* styles for form  */
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+
+form input {
+  padding: 10px;
+  margin-top: 12px;
+}
+
+form label {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+form label input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form label span {
+  position: absolute;
+  top: 50%;
+  left: 8px;
+  transform: translateY(-50%);
+  color: #666;
+  font-size: 12px;
+  pointer-events: none;
+  transition: transform 0.3s ease, font-size 0.3s ease;
+}
+
+@media (max-width: 600px) {
+  form label {
+    width: 300px;
+  }
+}
